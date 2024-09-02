@@ -1,0 +1,29 @@
+.mobileDisplayOnly .mn-btn-action-pro {
+	margin-bottom: 0 !important;
+}
+
+.proCreditUpsellMessage {
+	padding-top: 1px;
+	line-height: 1.1428571429;
+	color: #22313f;
+}
+
+	.proCreditUpsellMessage__image {
+		position: relative;
+		top: -1px;
+		margin-right: 10px;
+	}
+
+	.proCreditUpsellMessage__link {
+		text-decoration: underline;
+	}
+
+.quick-details-header {
+	margin-top: 17px;
+}
+
+@media (min-width: 768px) {
+	.quick-details-header {
+		margin-top: 5px;
+	}
+}
